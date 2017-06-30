@@ -1,0 +1,3 @@
+rootProject.name = 'etherealNative'
+
+include ':app'
