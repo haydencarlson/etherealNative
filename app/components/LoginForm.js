@@ -18,7 +18,6 @@ export default class LoginForm extends Component {
           placeholderTextColor="rgba(255,255,255,0.7)"
           ref={(input) => this.passwordInput = input}
           secureTextEntry/>
-
           <TouchableOpacity style={styles.buttonContainer}>
             <Text style={styles.buttonText}>Login</Text>
           </TouchableOpacity>
